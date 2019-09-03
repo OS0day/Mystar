@@ -35,7 +35,15 @@
 
 ​            https://github.com/xiaochen168/shoppingmall
 
-#### 2、Spring-boot框架：
+​        8）基于RESTful风格的前后端分离的SSM框架，集成了shiro和swagger等框架：https://github.com/xhwanhaoran/ssm
+
+​        9）基于SSM的前后端分离的仓储管理系统：https://github.com/J2ephyr/LUVWMS
+
+#### 2、spring框架：
+
+​        1）spring源码阅读：https://github.com/seaswalker/spring-analysis
+
+#### 3、Spring-boot框架：
 
 ​        1）SpringBoot骨架项目，集成SpringBoot、Mybatis、Druid、Mapper、PageHelper、Redis、Shiro、Swagger2、Log4j2等技术：https://github.com/zzycreate/spring-boot-seed
 
@@ -81,6 +89,16 @@ https://github.com/0Chencc/CTFCrackTools-V2
 
 ​         2）PoCBox - 赏金猎人的脆弱性测试辅助平台：https://github.com/gh0stkey/PoCBox         
 
+#### 9、poc：
+
+​         1）用于漏洞排查的pocsuite验证POC代码：https://github.com/hanc00l/some_pocsuite
+
+#### 10、exp：
+
+#### 11、局域网工具：
+
+​         1）内网密码搜集部分工：https://github.com/klionsec/Decryption-tool
+
 ### （三）其他有趣的star
 
 #### 1、北航搜索工具：
@@ -90,3 +108,7 @@ https://github.com/byrwiki/byrwiki
 #### 2、Bilibili.com视频批量下载工具包：
 
 https://github.com/wolfbolin/BiliUtil
+
+### （四）别人的star库
+
+ 1、https://github.com/ym2011/SecurityTechnique
