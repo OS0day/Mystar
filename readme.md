@@ -10,7 +10,6 @@
 添加我的微信备注“Github”,回复关键字 **“加群”** 即可入群。
 
 ![weixin](assets/weixin.png)
-<<<<<<< HEAD
 
 ## 二、内容
 
