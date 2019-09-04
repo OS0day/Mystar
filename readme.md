@@ -109,6 +109,31 @@ https://github.com/byrwiki/byrwiki
 
 https://github.com/wolfbolin/BiliUtil
 
+#### 3、收集的渗透资料
+
+https://github.com/w1109790800/penetration
+
+#### 4、websocket 即时聊天
+
+https://github.com/IcedSoul/WithMe
+
+#### 5、爬取网盘信息
+
+https://github.com/9bie/NSRAC
+
+https://github.com/k1995/BaiduyunSpider
+
+#### 6、慕课视频下载
+
+https://github.com/t2krew/imoocDownloader
+
 ### （四）别人的star库
 
- 1、https://github.com/ym2011/SecurityTechnique
+####  1、CTF资料、大数据、云安开发安全、区块链安全、人工智能身份认证、渗透测试威胁情报、物联网安全系统安全、业务安全、移动安全、应急响应应用安全：
+
+https://github.com/ym2011/SecurityTechnique
+
+#### 2、涉及网络安全和python以及爬虫：
+
+https://github.com/PyxYuYu/MyBlog
+
