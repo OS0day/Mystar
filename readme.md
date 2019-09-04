@@ -54,6 +54,10 @@
 
 ​          15）Spring + Spring MVC + Mybatis 构建的简易论坛https://github.com/igaozp/SSM
 
+​          16）单点登录、权限管理、基于Spring + SpringMVC + Mybatis 系统架构，实现集中式的单点登录与权限管理(Shiro进行认证和授权)，dubbo分布式服务构建，方便的为各类子系统提供登陆与授权服务：
+
+​           https://github.com/liunian1004/vua
+
 #### 2、spring框架：
 
 ​        1）spring源码阅读：https://github.com/seaswalker/spring-analysis
@@ -73,6 +77,10 @@
 ​         5）基于SpringBoot+Mybatis+Thymeleaf商品信息管理系统：https://github.com/zaiyunduan123/springboot-manage
 
 ​         6）采用springboot+vue.js+axios and admintle的博客系统：https://github.com/Arsense/ssmBlog
+
+​         7）Springboot+MyBatis+MySQL实现多功能个人博客系统 ：https://github.com/zhenyutu/Jblog
+
+​         8）基于SpringMVC+spring+Mybatis的校园o2o电商项目的后台和管理平台：https://github.com/xiaowei1118/java_server
 
 #### 4、Java分布式平台：
 
@@ -139,6 +147,10 @@ https://github.com/SkyBlueEternal/thinkphp-RCE-POC-Collection
 #### 11、局域网工具：
 
 ​         1）内网密码搜集部分工：https://github.com/klionsec/Decryption-tool
+
+#### 12、木马：
+
+​         1）php：https://github.com/yzddmr6/BestShell
 
 ### （三）其他有趣的star
 
