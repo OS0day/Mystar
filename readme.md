@@ -60,6 +60,8 @@
 
 ​           https://github.com/zaiyunduan123/springboot-manage
 
+​         5）基于SpringBoot+Mybatis+Thymeleaf商品信息管理系统：https://github.com/zaiyunduan123/springboot-manage
+
 ### （二）网络安全
 
 #### 1、字典：
