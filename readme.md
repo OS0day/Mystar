@@ -38,6 +38,12 @@
 
 ​        9）基于SSM的前后端分离的仓储管理系统：https://github.com/J2ephyr/LUVWMS
 
+​        10）快速入门SSM开发（商城）：https://github.com/codingXiaxw/ssm
+
+​        11）一个基于SSM的学生管理系统 : 项目概述全面，代码注释详细，逻辑结构清晰，并提供待优化方案：
+
+​              https://github.com/YUbuntu0109/SSM-SMS
+
 #### 2、spring框架：
 
 ​        1）spring源码阅读：https://github.com/seaswalker/spring-analysis
@@ -48,7 +54,11 @@
 
 ​         2）基于 SpringBoot + Spring + SpringMvc+Mybatis+CoreUI +Layui 开发后台管理程序：https://github.com/nbfujx/Goku.Framework.CoreUI
 
+​         3）快递代拿系统：https://github.com/jitwxs/express
 
+​         4）基于SpringBoot + Mybatis + Thymeleaf + Redis + MongoDB + MySQL开发的商品管理系统：
+
+​           https://github.com/zaiyunduan123/springboot-manage
 
 ### （二）网络安全
 
@@ -88,11 +98,19 @@ https://github.com/0Chencc/CTFCrackTools-V2
 
 ​         2）PoCBox - 赏金猎人的脆弱性测试辅助平台：https://github.com/gh0stkey/PoCBox         
 
+​         3）dockers for CTF_Web：https://github.com/m0xiaoxi/CTF_Web_docker
+
 #### 9、poc：
 
 ​         1）用于漏洞排查的pocsuite验证POC代码：https://github.com/hanc00l/some_pocsuite
 
 #### 10、exp：
+
+​          1）CNVD-C-2019-48814 Weblogic wls9_async_response 反序列化利用工具：
+
+​           https://github.com/fuhei/CNVD-C-2019-48814
+
+​          2）CVE-2018-8120 Exploit for Win2003 Win2008 WinXP Win7：https://github.com/alpha1ab/CVE-2018-8120
 
 #### 11、局域网工具：
 
@@ -126,6 +144,10 @@ https://github.com/k1995/BaiduyunSpider
 
 https://github.com/t2krew/imoocDownloader
 
+#### 7、一个基于 Python 3 的 MOOC 课程下载工具，可以获取 [中国大学MOOC](https://www.icourse163.org/)、[学堂在线](http://www.xuetangx.com/)、[网易云课堂 MOOC](http://mooc.study.163.com/)、[好大学在线](https://www.cnmooc.org/)、[爱课程](http://www.icourses.cn/) 的课件，方便离线观看。
+
+https://github.com/Foair/course-crawler
+
 ### （四）别人的star库
 
 ####  1、CTF资料、大数据、云安开发安全、区块链安全、人工智能身份认证、渗透测试威胁情报、物联网安全系统安全、业务安全、移动安全、应急响应应用安全：
@@ -135,4 +157,8 @@ https://github.com/ym2011/SecurityTechnique
 #### 2、涉及网络安全和python以及爬虫：
 
 https://github.com/PyxYuYu/MyBlog
+
+#### 3、用于记录企业安全规划，建设，运营，的攻防相关资源：
+
+https://github.com/AnyeDuke/Enterprise-Security-Skill
 
