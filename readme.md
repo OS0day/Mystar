@@ -44,6 +44,16 @@
 
 ​              https://github.com/YUbuntu0109/SSM-SMS
 
+​        12）基于SSM框架的前后端分离设计完整仿天猫网站服务器端源码。项目特点：前后端分离，数据库接口设计，架构设计，功能开发，上线运维：https://github.com/Liweimin0512/MMall_JAVA
+
+​         13）SSM电商项目开发，本项目的完成参考了慕课网happymmall的设计，项目版本由V1.0 单机部署+FTP服务器演进为V2.0 Tomcat集群+Redis分布式模式，各分支功能现已完成，并上线部署：https://github.com/LiuKay/mmall-kay-Java
+
+前端项目地址：https://github.com/LiuKay/mmall-kay-js
+
+​         14）对”优雅的SSM框架“进行完善（页面分离+Nginx负载均衡+Tomcat集群）https://github.com/wosyingjun/beauty_ssm_cluster
+
+​          15）Spring + Spring MVC + Mybatis 构建的简易论坛https://github.com/igaozp/SSM
+
 #### 2、spring框架：
 
 ​        1）spring源码阅读：https://github.com/seaswalker/spring-analysis
@@ -61,6 +71,12 @@
 ​           https://github.com/zaiyunduan123/springboot-manage
 
 ​         5）基于SpringBoot+Mybatis+Thymeleaf商品信息管理系统：https://github.com/zaiyunduan123/springboot-manage
+
+​         6）采用springboot+vue.js+axios and admintle的博客系统：https://github.com/Arsense/ssmBlog
+
+#### 4、Java分布式平台：
+
+​         1）Spring, Spring MVC, MyBatis, Dubbo, Redis, Shiro权限管理, Quartz分布式调度, RocketMQ通信, 本地缓存, Redis缓存, 分布式缓存, 分布式事务：https://github.com/huhuics/joice
 
 ### （二）网络安全
 
@@ -106,6 +122,12 @@ https://github.com/0Chencc/CTFCrackTools-V2
 
 ​         1）用于漏洞排查的pocsuite验证POC代码：https://github.com/hanc00l/some_pocsuite
 
+​         2）thinkphp v5.x 远程代码执行漏洞-POC集合：
+
+https://github.com/SkyBlueEternal/thinkphp-RCE-POC-Collection
+
+​        3）poc使用工具：Tentacle是一个POC漏洞验证和利用框架。它支持免费扩展漏洞并使用POC脚本。它支持调用zoomeye，fofa，shodan和其他API，以便为多个目标执行批量漏洞验证:https://github.com/orleven/Tentacle
+
 #### 10、exp：
 
 ​          1）CNVD-C-2019-48814 Weblogic wls9_async_response 反序列化利用工具：
@@ -150,6 +172,18 @@ https://github.com/t2krew/imoocDownloader
 
 https://github.com/Foair/course-crawler
 
+#### 8、扩展企业安全测试主动诱导型开源蜜罐框架系统，记录黑客攻击手段工具：
+
+https://github.com/hacklcx/HFish
+
+#### 9、Cobra-W -> Cobra-White 白盒源代码审计工具-白帽子版：
+
+https://github.com/LoRexxar/Cobra-W
+
+#### 10、基于HTTP代理中转菜刀过WAF：
+
+https://github.com/Ch1ngg/CaidaoMitmProxy
+
 ### （四）别人的star库
 
 ####  1、CTF资料、大数据、云安开发安全、区块链安全、人工智能身份认证、渗透测试威胁情报、物联网安全系统安全、业务安全、移动安全、应急响应应用安全：
@@ -164,3 +198,30 @@ https://github.com/PyxYuYu/MyBlog
 
 https://github.com/AnyeDuke/Enterprise-Security-Skill
 
+#### 4、信息安全工具以及资源集合：
+
+https://github.com/tengzhangchao/Sec-Box
+
+#### 5、分享在建设安全管理体系、ISO27001、等级保护、安全评审过程中的点点滴滴
+
+https://github.com/ym2011/SecurityManagement
+
+#### 6、github安全项目工具集合
+
+https://github.com/bollwarm/SecToolSet
+
+#### 7、CTF工具集：
+
+https://github.com/Harmoc/CTFTools
+
+#### 8、学习 Web/Cloud/Docker 安全、渗透测试、安全建设等时记录的一些笔记
+
+https://github.com/JnuSimba/MiscSecNotes
+
+#### 9、CTF工具以及笔记
+
+https://github.com/Ridter/Pentest
+
+#### 10、***项目简介*** 信息收集、攻击尝试获得权限、持久性控制、权限提升、网络信息收集、横向移动、数据分析（在这个基础上再做持久化控制）、擦痕迹。
+
+https://github.com/euphrat1ca/security_w1k1
